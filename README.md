@@ -1,7 +1,9 @@
 # Huffman Coding Visualization
 
-This Python script generates a visual representation of a Huffman tree based on a set of characters and their frequencies. It also decodes an encoded message using the generated Huffman tree.
+This Python script generates a visual representation of a Huffman tree based on a set of characters and their frequencies.
+It also decodes an encoded message using the generated Huffman tree.
 
+<img src="https://github.com/ARISTheGod/huffman-visualization/assets/50799554/3a21b56f-7330-411a-9137-7ec85685a386" width="800" alt="Huffman Tree Visualization">
 ## Requirements
 
 - Python 3
