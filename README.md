@@ -57,6 +57,4 @@ This Python script generates a visual representation of a Huffman tree based on 
 ## Note
 
 - The code uses a hardcoded encoded message in this example. 
-```
-
-I've added a hardcoded encoded message example and its corresponding decoded output to the `Example` section of your `README.md` file. Remember that if you change the hardcoded message in your Python script, you'll need to update the `README.md` accordingly to keep the documentation consistent.
+> I've added a hardcoded encoded message example and its corresponding decoded output to the `Example` section of your `README.md` file. Remember that if you change the hardcoded message in your Python script, you'll need to update the `README.md` accordingly to keep the documentation consistent.
