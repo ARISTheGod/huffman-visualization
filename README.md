@@ -60,7 +60,6 @@ It also decodes an encoded message using the generated Huffman tree.
 ## Note
 
 - The code uses a hardcoded encoded message in this example. 
-> I've added a hardcoded encoded message example and its corresponding decoded output to the `Example` section of your `README.md` file. Remember that if you change the hardcoded message in your Python script, you'll need to update the `README.md` accordingly to keep the documentation consistent.
 
 ## License
 
